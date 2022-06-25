@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello comrades :dolphin:
 
-<!--
-**GreenPisk/GreenPisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexander. I'm just getting started in the development world.
 
-Here are some ideas to get you started:
+## A little about my interests :fish:
++ communication systems
++ positioning systems
++ Information Security
++ *~~To do nothing~~*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a year of experience in developing surface ship sonar algorithms.
+
+## My skills:whale2:
+
++ Advanced knowledge:
+  + Matlab (sonar algorithms) 
+  
++ Basic knowledge
+  + python (ROS,communication protocols)
+  + Linux
+
++ Also interested ( I would like to learn))
+  + Docker, MySQL, PostgreSQL,SQL, HTML, CSS, AI
+
+> В любых делах при максимуме сложностей  
+Подход к проблеме все-таки один:  
+Желанье — это множество возможностей,  
+А нежеланье — множество причин.   
+
+Eduard Asadov:anchor:
