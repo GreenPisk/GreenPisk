@@ -20,7 +20,7 @@ I have a year of experience in developing surface ship sonar algorithms.
   + Linux
 
 + Also interested ( I would like to learn))
-  + Docker, MySQL, PostgreSQL,SQL, HTML, CSS, AI
+  + Docker, MySQL, PostgreSQL, SQL, HTML, CSS, AI,JS
 
 > В любых делах при максимуме сложностей  
 Подход к проблеме все-таки один:  
